@@ -1,4 +1,4 @@
-# This program says hello and asks for your name
+# THIS PROGRAM SAYS HELLO AND ASKS FOR YOUR NAME
 
 print('Hello world!')   # Print a greeting to the screen
 print('What is your name?')   # Ask for the user's name
